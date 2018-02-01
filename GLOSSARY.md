@@ -80,7 +80,7 @@ L
 [拉奧孔](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A5%A5%E5%AD%94)
 
 
-## Lessin
+## Lessing
 
 [萊辛](https://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E9%9C%8D%E5%B0%94%E5%BE%B7%C2%B7%E5%9F%83%E5%A4%AB%E8%8E%B1%E5%A7%86%C2%B7%E8%8E%B1%E8%BE%9B)
 
