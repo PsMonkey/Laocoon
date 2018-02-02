@@ -372,6 +372,11 @@ T
 V
 ====
 
+## Venus
+
+[維納斯](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF)
+
+
 ## Virgil
 
 [維吉爾](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%90%89%E5%B0%94)
