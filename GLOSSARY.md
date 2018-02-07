@@ -97,6 +97,11 @@ F
 G
 ====
 
+## Ghezzi
+
+格粹 / [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi)
+
+
 ## Goethe
 
 [歌德](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88%C2%B7%E5%86%AF%C2%B7%E6%AD%8C%E5%BE%B7)
@@ -115,6 +120,11 @@ H
 [海倫]
 
 [海倫]: https://zh.wikipedia.org/wiki/%E6%B5%B7%E4%BC%A6_(%E7%A5%9E%E8%AF%9D)
+
+
+## Hellanodikai
+
+赫臘諾第肯 / [Hellanodikai](https://en.wikipedia.org/wiki/Hellanodikai)
 
 
 ## Heracles
