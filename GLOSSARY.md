@@ -13,6 +13,13 @@ A
 [阿伽門農](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%BD%E9%97%A8%E5%86%9C)
 
 
+## Antiochus
+
+安提阿庫斯 / 安條克 ([Wikipedia 消歧義][Antiochus])
+
+[Antiochus]: https://zh.wikipedia.org/wiki/%E5%AE%89%E6%9D%A1%E5%85%8B_(%E6%B6%88%E6%AD%A7%E4%B9%89)
+
+
 ## Apelles
 
 亞帕列斯 / 阿佩萊斯 ([Wikipedia][Apelles])
@@ -165,6 +172,13 @@ J
 朱理烏斯二世 / 儒略二世 ([Wikipedia](https://zh.wikipedia.org/wiki/%E5%84%92%E7%95%A5%E4%BA%8C%E4%B8%96))
 
 
+## Junius
+
+尤尼烏斯 / [Franciscus Junius]
+
+[Franciscus Junius]: https://en.wikipedia.org/wiki/Franciscus_Junius_(the_younger)
+
+
 # K
 
 
@@ -262,12 +276,22 @@ P
 [Paris]: https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%8C%E6%96%AF
 
 
+## Pauson
+
+泡生 / [Pauson (Wikipedia 德文)](https://de.wikipedia.org/wiki/Pauson)
+
+
 ## Philoctetes
 
 菲羅克忒忒斯，同時是[人名][Philoctetes 人]也是[作品名][Philoctetes 作品]
 
 [Philoctetes 人]: https://en.wikipedia.org/wiki/Philoctetes
 [Philoctetes 作品]: https://en.wikipedia.org/wiki/Philoctetes_(Sophocles_play)
+
+
+## Piraecus
+
+庇越庫斯
 
 
 ## Plinius
@@ -348,6 +372,13 @@ S
 
 T
 ====
+
+## Thebes
+
+忒拜 / 底比斯 ([Wikipedia][Thebes])
+
+[Thebes]: https://zh.wikipedia.org/wiki/%E5%BA%95%E6%AF%94%E6%96%AF_(%E5%B8%8C%E8%87%98)
+
 
 ## Thoughts on the Imitation of Greek Works in Painting and Sculpture
 
