@@ -13,6 +13,11 @@ A
 [阿伽門農](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%BD%E9%97%A8%E5%86%9C)
 
 
+## Alexander
+
+亞歷山大 / [亞歷山大大帝](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%A4%A7%E5%B8%9D)
+
+
 ## Antiochus
 
 安提阿庫斯 / 安條克 ([Wikipedia 消歧義][Antiochus])
@@ -27,13 +32,44 @@ A
 [Apelles]: https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%A9%E8%8E%B1%E6%96%AF)
 
 
+## Apollo
+
+[阿波羅](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%97)
+
+
+## Aristodemus
+
+亞里斯托德牟斯 / 阿里斯多德穆斯 ([Wikipedia][Aristodemus])
+
+[Aristodemus]: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%96%AF%E5%A4%9A%E5%BE%B7%E7%A9%86%E6%96%AF_(%E7%BE%8E%E5%A1%9E%E5%B0%BC%E4%BA%9A)
+
+
+## Aristomenes
+
+亞理斯托麥尼斯 / 阿里斯多美奈斯 ([Wikipedia][Aristomenes])
+
+註：Aristotle 跟 Aristodemus 都是用「亞里斯」這個字，不知道為什麼只有這裡用「亞理斯」...... ＝＝"
+
+[Aristomenes]: https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%96%AF%E5%A4%9A%E7%BE%8E%E5%A5%88%E6%96%AF
+
+
 ## Aristotle
 
 [亞里斯多德](https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7)
 
 
+## Augustus
+
+[奧古斯都](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD)
+
+
 B
 ====
+
+## Bacchus
+
+[巴克科斯](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%85%8B%E7%A7%91%E6%96%AF)
+
 
 ## Baumgarten
 
@@ -96,6 +132,13 @@ F
 
 G
 ====
+
+## Galerius
+
+格洛魯斯 / 伽列里烏斯 ([Wikipedia][Galerius])
+
+[Galerius]: https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%88%97%E9%87%8C%E4%B9%8C%E6%96%AF
+
 
 ## Ghezzi
 
@@ -219,6 +262,20 @@ L
 
 M
 ====
+
+## Mercury
+
+麥庫魯斯 / 墨丘利 ([Wikipedia][Mercury])
+
+[Mercury]: https://zh.wikipedia.org/wiki/%E5%A2%A8%E4%B8%98%E5%88%A9
+
+
+## Messenia
+
+麥色尼亞 / Messenia ([Wikipedia][Messenia])
+
+[Messenia]: https://en.wikipedia.org/wiki/Messenia_(ancient_region)
+
 
 ## Metrodor
 
@@ -361,6 +418,10 @@ S
 [Schlegel]: https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E6%96%BD%E8%8E%B1%E6%A0%BC%E5%B0%94
 
 
+## Scipio
+
+什庇阿 / [大西庇阿](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E5%BA%87%E9%98%BF) / [Scipio Africanus](https://en.wikipedia.org/wiki/Scipio_Africanus)
+
 ## Simonides
 
 西摩尼德斯 / 西莫尼德斯 ([Wikipedia][Simonides])
@@ -371,6 +432,11 @@ S
 ## Sophocles
 
 [索福克勒斯](https://zh.wikipedia.org/wiki/%E7%B4%A2%E7%A6%8F%E5%85%8B%E5%8B%92%E6%96%AF)
+
+
+## Sparta
+
+[斯巴達](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%B7%B4%E8%BE%BE)
 
 
 ## Stoicism
