@@ -301,6 +301,11 @@ Google 找不到任何 Metrodor 的資料，直接轉為 Metrodorus。
 [米開朗基羅](https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%BC%80%E6%9C%97%E5%9F%BA%E7%BD%97)
 
 
+## Montfaucon
+
+蒙特浮鏗 / [Bernard de Montfaucon](https://en.wikipedia.org/wiki/Bernard_de_Montfaucon)
+
+
 ## Montorsoli
 
 蒙托索理 / [Giovanni Angelo Montorsoli](https://en.wikipedia.org/wiki/Giovanni_Angelo_Montorsoli)
