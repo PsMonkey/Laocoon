@@ -207,6 +207,11 @@ I
 [Iliad]: https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%88%A9%E4%BA%9A%E7%89%B9
 
 
+## Iphigenia
+
+[伊菲革涅亞](https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8F%B2%E9%9D%A9%E6%B6%85%E4%BA%9A)
+
+
 J
 ====
 
@@ -230,6 +235,11 @@ J
 尤尼烏斯 / [Franciscus Junius]
 
 [Franciscus Junius]: https://en.wikipedia.org/wiki/Franciscus_Junius_(the_younger)
+
+
+## Jupiter
+
+[朱庇特](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%BA%87%E7%89%B9)
 
 
 # K
@@ -461,6 +471,11 @@ T
 論希臘繪畫和雕刻作品的摹仿
 
 
+## Timanthes
+
+提曼特斯 / [Timanthes](https://en.wikipedia.org/wiki/Timanthes)
+
+
 ## Titus
 
 [提圖斯](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%9C%96%E6%96%AF)
@@ -510,7 +525,12 @@ W
 # Y
 
 
-# Z
+Z
+====
+
+## Zeus
+
+[宙斯](https://zh.wikipedia.org/wiki/%E5%AE%99%E6%96%AF)
 
 
 ----------------------------------------------------------------------
