@@ -13,6 +13,13 @@ A
 [阿伽門農](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%BD%E9%97%A8%E5%86%9C)
 
 
+## Ajax
+
+埃阿斯 / [小埃阿斯](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9F%83%E9%98%BF%E6%96%AF)
+
+在 Troy 戰爭中同時有兩個叫 Ajax 的人物，在書中應該是指小埃阿斯。
+
+
 ## Alexander
 
 亞歷山大 / [亞歷山大大帝](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%A4%A7%E5%B8%9D)
@@ -395,6 +402,14 @@ P
 [普羅托格涅斯](https://en.wikipedia.org/wiki/Protogenes)
 
 
+## Pythagoras Leontinus
+
+畢達哥臘斯˙里昂提弩斯
+
+Google 跟 Wikipedia 都找不到這個人，
+Leontinus 應該是德文，但是德文 Wikipedia 也找不到任何符合資料。
+
+
 Q
 ====
 
@@ -498,6 +513,11 @@ T
 
 V
 ====
+
+## Valerius
+
+瓦洛魯斯 / [Valerius Maximus](https://en.wikipedia.org/wiki/Valerius_Maximus)
+
 
 ## Venus
 
