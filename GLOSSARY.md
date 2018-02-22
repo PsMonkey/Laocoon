@@ -114,6 +114,13 @@ D
 達西耶 / [Anne Dacier](https://en.wikipedia.org/wiki/Anne_Dacier)
 
 
+## Democritus
+
+德謨克里特 / 德謨克利特 ([Wikipedia][Democritus])
+
+[Democritus]: https://zh.wikipedia.org/wiki/%E5%BE%B7%E8%B0%9F%E5%85%8B%E5%88%A9%E7%89%B9
+
+
 ## Diderot
 
 [狄德羅](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%B0%BC%C2%B7%E7%8B%84%E5%BE%B7%E7%BD%97)
@@ -258,6 +265,13 @@ L
 ## Laocoon
 
 [拉奧孔](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A5%A5%E5%AD%94)
+
+
+## Le Mettrie
+
+拉麥屈理 / 拉·美特利 ([Wikipedia][Le Mettrie])
+
+[Le Mettrie]: https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E5%A5%A5%E5%BC%97%E9%9B%B7%C2%B7%E6%8B%89%C2%B7%E7%BE%8E%E7%89%B9%E5%88%A9
 
 
 ## Le Théâtre des Grecs
