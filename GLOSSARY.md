@@ -22,9 +22,13 @@ A
 
 ## Ajax
 
-埃阿斯 / [小埃阿斯](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9F%83%E9%98%BF%E6%96%AF)
+埃阿斯
 
-在 Troy 戰爭中同時有兩個叫 Ajax 的人物，在書中應該是指小埃阿斯。
+在 Troy 戰爭中同時有兩個叫 Ajax 的人物，
+分別是[大埃阿斯][Greater Ajax]與[小埃阿斯][Lesser Ajax]
+
+[Greater Ajax]: https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9F%83%E9%98%BF%E6%96%AF
+[Lesser Ajax]: https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9F%83%E9%98%BF%E6%96%AF
 
 
 ## Alexander
