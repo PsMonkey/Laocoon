@@ -1,6 +1,13 @@
 A
 ====
 
+## Achilles
+
+阿喀琉斯 / 阿基里斯 ([Wikipedia][Achilles])
+
+[Achilles]: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF
+
+
 ## Aeneid
 
 [伊尼特](http://www.twwiki.com/wiki/%E3%80%8A%E4%BC%8A%E5%B0%BC%E7%89%B9%E3%80%8B) / 埃涅阿斯纪 ([Wikipedia][Aeneid])
@@ -229,6 +236,11 @@ I
 J
 ====
 
+## Jason
+
+[伊阿宋](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%98%BF%E5%AE%8B)
+
+
 ## J.M.Gesner
 
 格斯那 / [Johann Matthias Gesner](https://en.wikipedia.org/wiki/Johann_Matthias_Gesner)
@@ -293,6 +305,11 @@ L
 
 M
 ====
+
+## Medea
+
+[美狄亞](https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%8B%84%E4%BA%9E)
+
 
 ## Mercury
 
@@ -508,6 +525,11 @@ T
 ## Timanthes
 
 提曼特斯 / [Timanthes](https://en.wikipedia.org/wiki/Timanthes)
+
+
+## Timomachus
+
+提牟瑪球斯 / [Timomachus](https://en.wikipedia.org/wiki/Timomachus)
 
 
 ## Titus
