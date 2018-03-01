@@ -290,11 +290,11 @@ L
 [拉奧孔](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A5%A5%E5%AD%94)
 
 
-## Le Mettrie
+## La Mettrie
 
-拉麥屈理 / 拉·美特利 ([Wikipedia][Le Mettrie])
+拉麥屈理 / 拉·美特利 ([Wikipedia][La Mettrie])
 
-[Le Mettrie]: https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E5%A5%A5%E5%BC%97%E9%9B%B7%C2%B7%E6%8B%89%C2%B7%E7%BE%8E%E7%89%B9%E5%88%A9
+[La Mettrie]: https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E5%A5%A5%E5%BC%97%E9%9B%B7%C2%B7%E6%8B%89%C2%B7%E7%BE%8E%E7%89%B9%E5%88%A9
 
 
 ## Le Théâtre des Grecs
