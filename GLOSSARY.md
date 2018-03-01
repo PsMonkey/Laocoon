@@ -117,6 +117,13 @@ C
 考提勒
 
 
+## Creusa
+
+克瑞烏薩 / [Creusa]
+
+[Creusa]: https://en.wikipedia.org/wiki/Creusa_(daughter_of_Creon)
+
+
 D
 ====
 
@@ -307,6 +314,16 @@ L
 [萊辛](https://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E9%9C%8D%E5%B0%94%E5%BE%B7%C2%B7%E5%9F%83%E5%A4%AB%E8%8E%B1%E5%A7%86%C2%B7%E8%8E%B1%E8%BE%9B)
 
 
+## Life of Apollonius of Tyana
+
+阿波羅琉斯傳 / [Life of Apollonius of Tyana]
+
+Apollonius 在 [Wikipedia][Apollonius] 翻作阿波羅尼烏斯
+
+[Life of Apollonius of Tyana]: https://en.wikipedia.org/wiki/Life_of_Apollonius_of_Tyana
+[Apollonius]: https://zh.wikipedia.org/wiki/%E6%8F%90%E4%BA%9A%E7%BA%B3%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E4%B9%8C%E6%96%AF
+
+
 M
 ====
 
@@ -405,12 +422,22 @@ P
 泡生 / [Pauson (Wikipedia 德文)](https://de.wikipedia.org/wiki/Pauson)
 
 
+## Philippus
+
+斐立普斯
+
+
 ## Philoctetes
 
 菲羅克忒忒斯，同時是[人名][Philoctetes 人]也是[作品名][Philoctetes 作品]
 
 [Philoctetes 人]: https://en.wikipedia.org/wiki/Philoctetes
 [Philoctetes 作品]: https://en.wikipedia.org/wiki/Philoctetes_(Sophocles_play)
+
+
+## Philostratus
+
+斐羅斯屈拉特 / [Philostratus](https://en.wikipedia.org/wiki/Philostratus)
 
 
 ## Piraecus
