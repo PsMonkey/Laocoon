@@ -102,6 +102,11 @@ B
 C
 ====
 
+## Calydon
+
+卡里東 / [Calydon](https://en.wikipedia.org/wiki/Calydon)
+
+
 ## Chateaubrun
 
 夏妥布倫 / [Jean-Baptiste Vivien de Châteaubrun](https://en.wikipedia.org/wiki/Jean-Baptiste_Vivien_de_Ch%C3%A2teaubrun)
@@ -330,6 +335,13 @@ M
 ## Medea
 
 [美狄亞](https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%8B%84%E4%BA%9E)
+
+
+## Meleager
+
+墨勒阿格 / 麥萊亞戈 ([Wikipedia][Meleager])
+
+[Meleager]: https://zh.wikipedia.org/wiki/%E9%BA%A6%E8%8E%B1%E4%BA%9A%E6%88%88
 
 
 ## Mercury
