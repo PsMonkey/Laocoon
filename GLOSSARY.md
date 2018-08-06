@@ -8,6 +8,11 @@ A
 [Achilles]: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF
 
 
+## Adam Smith
+
+[亞當˙斯密](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86)
+
+
 ## Aeneid
 
 [伊尼特](http://www.twwiki.com/wiki/%E3%80%8A%E4%BC%8A%E5%B0%BC%E7%89%B9%E3%80%8B) / 埃涅阿斯纪 ([Wikipedia][Aeneid])
